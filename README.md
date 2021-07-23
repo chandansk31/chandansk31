@@ -1,6 +1,8 @@
- Hi there 👋
+ Hi, I'm Chandan S K, Graduated in Mechanical Engineering.
  
- My name is Chandan S K
+ I'm interested in Technology, currently learning Python and Data Analytics, looking to collaborate on Data Science Projects.
  
- Mail: chandansk3197@gmail.com
+ Email: chandansk3197@gmail.com
+ 
+
 
